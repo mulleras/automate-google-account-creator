@@ -23,7 +23,7 @@ Installation
     sh
 
 git clone https://github.com/mulleras/automate-google-account-creator.git
-cd google-account-creator
+cd automate-google-account-creator
 
 Install the required Python packages:
 
